@@ -1,3 +1,7 @@
+example/application
+example/service1
+example/service2
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
