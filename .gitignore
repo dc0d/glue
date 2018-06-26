@@ -1,6 +1,6 @@
-example/application
-example/service1
-example/service2
+example/application/application
+example/service1/service1
+example/service2/service2
 
 # Binaries for programs and plugins
 *.exe
